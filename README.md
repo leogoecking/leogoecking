@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Leandro</h1>
+<h1 align="center">👋 Olá, eu sou o Goecking</h1>
 
 <p align="center">
-  💻 Future Dev fullstack  🇧🇷
+  💻 Future dev fullstack  🇧🇷
 </p>
 
 ---
