@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Leandro</h1>
 
 <p align="center">
-  💻  🇧🇷
+  💻 Future Dev fullstack  🇧🇷
 </p>
 
 ---
@@ -21,24 +21,24 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=leogoecking&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogoecking&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🚀 Sobre
 
-- 🔧 Suporte de sistemas (SIAF)
+- 🔧 Suporte de sistemas
 - 📚 Estudando programação na prática
-- 🎯 Objetivo: Dev Júnior + trabalho remoto
+- 🎯 Objetivo: Dev fullstack
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/leogoecking>
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   <a href="#">
